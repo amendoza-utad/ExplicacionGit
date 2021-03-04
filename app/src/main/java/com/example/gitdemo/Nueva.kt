@@ -1,6 +1,11 @@
 package com.example.gitdemo
 
 class Nueva {
-    var b=8
+    var b="yo lo estoy cambiando"
     var c=8
+
+    fun a(){
+        // Esto es una función
+        var j=1
+    }
 }
